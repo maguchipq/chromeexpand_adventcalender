@@ -1,1 +1,3 @@
 # chromeexpand_adventcalender
+
+KDDIテクノロジーで行っているアドベントカレンダーの10日目のもので作成したコードです
